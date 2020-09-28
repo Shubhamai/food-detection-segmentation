@@ -4,10 +4,14 @@
 
 This repo containes my solutions for [AIcrowd Food Detection & Segmentation challange](https://www.aicrowd.com/challenges/food-recognition-challenge) in which we have to detect & segmentat over 273 different categories of food! 
 
+![](https://i.imgur.com/zS2Nbf0.png)
+
 
 # Motivation
 
 The previous project i did for object detection use Wheat Heads Detection using Detectron2, but there were only 1 class ( wheat heads ) and no segmentation mask, But in this challange, i mad over 200+ different classes with bluding box & segmentation. So, i decided to work on this project. 
+
+![](https://github.com/Shubhamai/wheat-detection/raw/master/wheat.png)
 
 # Tools Used
 
