@@ -29,7 +29,7 @@ We have a total of **24120 RGB images** with **2053 validation**, all in **MS-CO
 
 # Getting Started
 
-For now, I have actually a added colab notebook with ~ everything from daraset exploration to evaluation!
+For now, I have actually a added [colab notebook](https://colab.research.google.com/drive/158H2d0Kdk223CBs9lOBwIHcxTut3Kyrc?usp=sharing) with ~ everything from dataset exploration to evaluation!
 
 # License 
 Distributed under the GNU General Public License v3.0. See LICENSE for more information.
