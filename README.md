@@ -17,6 +17,7 @@ The previous project i did for object detection use [Wheat Heads Detection using
 
 - [Detectron2](https://github.com/facebookresearch/detectron2)
 - [Plotly](https://github.com/plotly/plotly.py)
+
 There are the main libraries i used, there are many other's like pandas, numpy.
 
 # Model
