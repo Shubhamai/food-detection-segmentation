@@ -2,7 +2,7 @@
 
 # About
 
-This repo containes my solutions for [AIcrowd Food Detection & Segmentation challange](https://www.aicrowd.com/challenges/food-recognition-challenge) in which we have to detect & segmentat over 273 different categories of food! 
+This repo containes my solutions for [AIcrowd Food Detection & Segmentation challange](https://www.aicrowd.com/challenges/food-recognition-challenge) in which we have to detect & segment over 273 different categories of food! 
 
 ![](https://i.imgur.com/zS2Nbf0.png)
 
