@@ -26,10 +26,9 @@ I used models form [Detectron2 Model Zoo](https://github.com/facebookresearch/de
 # Dataset
 
 We have a total of **24120 RGB images** with **2053 validation**, all in **MS-COCO format** and test set for now is same as validation ( debug mode ). 
+![](./images/foods.png)
 
 # Getting Started
-
-![](./images/foods.png)
 
 For now, I have actually a added [colab notebook](https://colab.research.google.com/drive/158H2d0Kdk223CBs9lOBwIHcxTut3Kyrc?usp=sharing) with ~ everything from dataset exploration to evaluation!
 
