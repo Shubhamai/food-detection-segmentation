@@ -35,8 +35,3 @@ For now, I have actually a added [colab notebook](https://colab.research.google.
 
 # License 
 Distributed under the GNU General Public License v3.0. See LICENSE for more information.
-
-# Contact
-Shubhamai - [@Shubhamai](https://twitter.com/Shubhamai) - shubham.aiengineer@gmail.com
-
-Website - [Shubhamai.com](http://shubhamai.com/)
